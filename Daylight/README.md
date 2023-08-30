@@ -1,5 +1,7 @@
 # Daylight on a stick
 
+## ![#f03c15]Everything in here is currently in development, please proceed with caution!
+
 ![Daylight family](./images/Daylight.png)
 
 The original Daylight on a Stick is a chainable 24V LED bar, to be used with high quality 4000K LEDs to give the illusion of daylight in your Voron. Great when making photo's of your prints, or want to see the colors how they will look in the outside world.  
